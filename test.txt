@@ -1,107 +1,102 @@
 [Intro]
-Em7 G   Dsus4   A7sus4   Em7 G   Dsus4   A7sus4
+Bbmaj7 Gm9 Eb7
+Bbmaj7 Am7 D
+Gm9 C7b9 Am7 Dm7
  
 [Verse 1]
-Em7      G
-Today is gonna be the day
-             Dsus4                  A7sus4
-That they're gonna throw it back to you,
-Em7        G
-By now you should of somehow
-   Dsus4                A7sus4
-Realised what you gotta do.
-Em7                  G       Dsus4           A7sus4
-I don't believe that anybody feels the way I do
-          Cadd9 Dsus4   A7sus4
-About you now.
+Gm9          C7b9  Am7         Dm7
+Totsuzen no kisu ya atsui manazashi de
+Gm9          C7b9 Am7         Dm7
+Koi no puroguramu o kuruwasenai de ne
+        Gm9    Eb7     Dm7 Dm7 G7
+Deai to wakare jozu ni uchikonde
+         Gm9   C7b9
+Jikan ga kureba owaru
+      Dm7     D7sus2
+Don't hurry!
  
 [Verse 2]
-Em7            G
-Back beat, the word is on the street
-         Dsus4                 A7sus4
-That the fire in your heart is out,
-Em7             G
-I'm sure you've heard it all before,
-        Dsus4              A7sus4
-But you never really had a doubt.
-Em7                  G       Dsus4           A7sus4
-I don't believe that anybody feels the way I do
-          Em7 G   Dsus4 A7sus4
-About you now.
+Gm9        C7b9    Am7        Dm7
+Ai ni kizutsuita    anohi kara zutto
+Gm9               C7b9   Am7           Dm7
+Hiru to yoru ga gyaku no kurashi o tsuzukete
+          Gm9      Eb7    Dm7 Dm7 G7
+Hayari no disco de odori akasu uchini
+       Gm9    C7b9
+Oboeta majutsu nanoyo
+    Dm7  Dm7 Em7  F  D7b9
+I'm sorry!
  
-[Bridge]
-    C                D                Em
-And all the roads we have to walk are winding,
-    C                   D                 Em
-And all the lights that lead us there are blinding,
-C              D                   G       G/F#   Em7
-There are many things that I would like to say to you
-      G          A7sus4
-But I don't know how.
+[Chorus 1]
+Bb         C              Bb       C
+Watashi no koto o keshite honki de aisanai de
+Em7   A7b9   Dm7
+Koi   nante tadano gemu
+Bb       C    Am7    Dm7
+Tanoshimeba sorede iino
+ Bb         C             Bb         C
+Tozashita kokoro o kazaru hadena doresu mo kutsu mo
+Bbmaj7  Am7       D
+Kodo -  ku na tomodachi
  
-[Chorus]
-        Cadd9  Em7   G
-Because maybe,
-       Em7                   Cadd9     Em7 G
-You're gonna be the one that saves me,
-    Em7   Cadd9  Em7   G
-And after all,
-          Em7   Cadd9   Em7   G   Em7
-You're my wonderwall.
- 
-[Verse 3]
-Em7       G
-Today was gonna be the day,
-            Dsus4                  A7sus4
-But they'll never throw it back to you,
-Em7        G
-By now you should have somehow
-   Dsus4                    A7sus4
-Realised what you're not to do.
-Em7                  G       Dsus4           A7sus4
-I don't believe that anybody feels the way I do
-          Em7  G     Dsus4 A7sus4
-About you now.
- 
-[Bridge 2]
-    C                   D                 Em
-And all the roads that lead you there are winding,
-    C                   D                 Em
-And all the lights that light the way are blinding,
-C              D                   G       G/F#   Em7
-There are many things that I would like to say to you
-      G          A7sus4
-But I don't know how.
+[Guitar solo chords]
+Gm7 Eb7 Dm7 Dm7 G7
+Bbmaj7 C7b9 Dm7 Dm7 Em7 F D7b9
  
 [Chorus 2]
-        Cadd9  Em7   G
-I said maybe,
-       Em7                   Cadd9     Em7   G
-You're gonna be the one that saves me,
-    Em7   Cadd9  Em7   G
-And after all,
-          Em7   Cadd9  Em7   G Em7
-You're my wonderwall.
+Bb        C             Bb        C
+Watashi o sasou hito wa hinikuna mono ne itsumo
+Em7  A7b9   Dm7
+kare ni niteruwa nazeka
+Bb     C    Am7   Dm7
+Omoide to kasanariau
+Bb        C              Bb       C
+Gurasu o otoshite kyu ni namidagundemo wake wa
+Bbmaj7  Am7      D        D
+Tazu -  nenai    de ne
+ 
+[Verse 3]
+Gm9        C7b9  Am7         Dm7
+Ai ni kizutsuita anohi kara zutto
+Gm9               C7b9   Am7            Dm7
+Hiru to yoru ga gyaku no kurashi o tsuzukete
+          Gm7      Eb7    Dm7 Dm7 G7
+Hayari no disco de odori akasu uchini
+       Gm9     C7b9
+Oboeta majutsu nanoyo
+    Dm7     Em7 F D7b9
+I'm sorry!
  
 [Chorus 3]
-        Cadd9  Em7   G
-I said maybe,
-       Em7                   Cadd9     Em7   G
-You're gonna be the one that saves me,
-    Em7   Cadd9  Em7   G
-And after all,
-          Em7   Cadd9  Em7   G Em7
-You're my wonderwall.
+Bb         C              Bb       C
+Watashi no koto o keshite honki de aisanai de
+Em7  A7b9    Dm7
+Koi  nante tadano gemu
+Bb       C   Am7    Dm7
+Tanoshimeba sorede iino
+Bb         C              Bb       C
+Tozashita kokoro o kazaru hadena doresu mo kutsu mo
+Bbmaj7  Am7       D
+Kodo -  ku na tomodachi
+ 
+[Verse 4]
+Gm9          C7b9  Am7             Dm7
+Yohuke no kosoku de nemuri ni tsuku koro
+Gm9         C7b9 Am7          Dm7
+Harogen raito dake ayashiku kagayaku
+        Gm9  Eb7     Dm7 Dm7 G7
+Kori no yoni tsumetai onna dato
+        Gm9     C7b9
+Sasayaku koe ga shitemo
+      Dm7     D7sus2
+Don't worry!
  
 [Outro]
-        Cadd9  Em7   G
-I said maybe,
-       Em7                   Cadd9     Em7   G
-You're gonna be the one that saves me,
-       Em7                   Cadd9     Em7   G
-You're gonna be the one that saves me,
-       Em7                   Cadd9     Em7   G Em7
-You're gonna be the one that saves me,
- 
-[Instrumental]
-Cadd9 Em7   G Em7   Cadd9 Em7   G Em7
+Gm9
+I'm just playing games
+  C7b9                Am7   Dm7
+I know that's plastic love
+Gm9
+Dance to the plastic beat
+ C7b9           Am7     Dm7
+Another morning comes....

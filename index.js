@@ -9,7 +9,7 @@ const rows = content
 
 const isChordRow = _r => {
     const r = _r + ' ';
-    const res = r.match(/[ABCDEFG]#?b?m?\d?(maj)?(sus)?\d?\s/g);
+    const res = r.match(/[ABCDEFG]#?b?m?\d?(maj)?(sus)?b?\d?\s/g);
     if (!res) { return false; }
     if (res.length === 1) {
         return r.trim().split(/\s/).length === 1;
